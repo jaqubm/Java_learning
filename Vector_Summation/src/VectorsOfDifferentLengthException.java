@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class VectorsOfDifferentLengthException {
+public class VectorsOfDifferentLengthException extends RuntimeException {
+    public VectorsOfDifferentLengthException(String message) {
+        super(message);
+    }
 }
