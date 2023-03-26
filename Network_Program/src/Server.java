@@ -58,7 +58,7 @@ public class Server implements Runnable {
 
     public void closeEverything() {
         try {
-            System.out.println("Closing connection!\n");
+            System.out.println("Closing connection!");
 
             in.close();
             out.close();
