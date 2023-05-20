@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="640.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.jaqubm.shopping_list_fx.DeleteProductsController">
+   <children>
+      <ChoiceBox fx:id="dpCategoryChoiceBox" layoutX="245.0" layoutY="295.0" prefWidth="150.0" />
+      <Button layoutX="277.0" layoutY="397.0" mnemonicParsing="false" onAction="#switchToShoppingListView" text="Back">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Button>
+      <Button layoutX="268.0" layoutY="334.0" mnemonicParsing="false" onAction="#deleteCategory" text="Delete">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Button>
+      <Label layoutX="252.0" layoutY="268.0" text="Choose category:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

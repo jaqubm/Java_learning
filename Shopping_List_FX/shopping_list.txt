@@ -1,0 +1,12 @@
+Chemia
+Płyn do mycia naczyń
+szt
+1.0
+Motoryzacja
+Płyn do spryskiwaczy
+szt
+2.0
+Spożywcze
+Mleko
+l
+1.5

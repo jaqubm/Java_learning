@@ -1,0 +1,32 @@
+Spożywcze
+Chleb
+szt
+0
+Spożywcze
+Masło
+szt
+0
+Spożywcze
+Mleko
+l
+0
+Spożywcze
+Żółty ser
+kg
+0
+Chemia
+Mydło
+szt
+0
+Chemia
+Płyn do mycia naczyń
+szt
+0
+Motoryzacja
+Odświeżacz powietrza
+szt
+0
+Motoryzacja
+Płyn do spryskiwaczy
+szt
+0
